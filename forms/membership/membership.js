@@ -2,7 +2,7 @@
 var members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
 btnSubmitName.onclick=function(){
-  var memberExists = members.include(inptFirstName.value)
+  var memberExists = members.includes(inptFirstName.value)
   if (memberExists == "true") 
     NSB.MsgBox("You are already a member!")
   else {
