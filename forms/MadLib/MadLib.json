@@ -54,6 +54,105 @@
         "Elements", 
         "inptSnoun.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "MadLib", 
+        "Elements", 
+        "inptSverb.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "MadLib", 
+        "Elements", 
+        "inptTnoun.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "MadLib", 
+        "Elements", 
+        "inptTverb.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "MadLib", 
+        "Elements", 
+        "inptFiNoun.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "MadLib", 
+        "Elements", 
+        "inptFoNoun.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "MadLib", 
+        "Elements", 
+        "inptSadjective.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "MadLib", 
+        "Elements", 
+        "inptFourVerb.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "MadLib", 
+        "Elements", 
+        "inptTadjective.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "MadLib", 
+        "Elements", 
+        "inptSixNoun.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "MadLib", 
+        "Elements", 
+        "inptSevenNoun.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "MadLib", 
+        "Elements", 
+        "btnEnter.json"
+      ]
     }
   ], 
   "class": "", 
