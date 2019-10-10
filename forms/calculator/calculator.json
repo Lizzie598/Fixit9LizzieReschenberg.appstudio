@@ -14,18 +14,63 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "calculator", 
         "Elements", 
-        "inptFirstName.json"
+        "lblAnswer.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "calculator", 
         "Elements", 
-        "btnSubmitName.json"
+        "inptNumOne.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "calculator", 
+        "Elements", 
+        "inptNumTwo.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "calculator", 
+        "Elements", 
+        "btnClear.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "calculator", 
+        "Elements", 
+        "btnAdd.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "calculator", 
+        "Elements", 
+        "btnMultiply.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "calculator", 
+        "Elements", 
+        "inptName.json"
       ]
     }
   ], 
@@ -35,7 +80,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "membership", 
+  "id": "calculator", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -43,7 +88,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "membership.onshow()", 
+  "onshow": "", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
