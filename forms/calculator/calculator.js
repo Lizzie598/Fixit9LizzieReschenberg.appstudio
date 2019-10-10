@@ -16,3 +16,9 @@ var answer = 0
 btnMultiply.onclick=function(){
   lblAnswer.value = multiply(inptNumOne.value, inptNumTwo.value)
 }
+
+btnClear.onclick=function(){
+  lblAnswer.value = ''
+  inptNumOne.value = ''
+  inptNumTwo.value = ''
+}
