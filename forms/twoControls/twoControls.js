@@ -3,10 +3,14 @@ function nameAnimal(n1) {
   return T || F
   }
 
-lblCorrect.value = 0
 slctAnimal.onchange=function(){
-  if (slctAnimal == puppy)
+  if (slctAnimal.items == "Puppy") {
     NSB.MsgBox("You're right!")
-  else
+  } else {
     NSB.MsgBox("Sorry, that's not right.")
+  }
+}
+
+imgPuppy.onmouseup=function(){
+  NSB.MsgBox("To play the game, use the drop down menu and name this animal.")
 }

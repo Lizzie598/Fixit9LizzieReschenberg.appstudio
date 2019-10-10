@@ -12,14 +12,14 @@
   "display": "", 
   "expanded_pmp": null, 
   "fontFamily": "", 
-  "fontSize": "", 
+  "fontSize": "45,45", 
   "fontStyle": "", 
   "fontWeight": "", 
-  "height": 49, 
+  "height": 80, 
   "hidden": "", 
   "id": "lblChanges", 
   "labelStyle": "text", 
-  "left": 125, 
+  "left": 45, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -42,7 +42,7 @@
   "right": "auto", 
   "script": "", 
   "style": "", 
-  "top": 413, 
-  "value": "Changed values in Select Buttom", 
-  "width": 199
+  "top": 370, 
+  "value": "Changed values in Select Button, added a picture of my puppy", 
+  "width": 201
 }

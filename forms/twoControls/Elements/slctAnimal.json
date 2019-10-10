@@ -25,7 +25,7 @@
   "iconTitle": "", 
   "id": "slctAnimal", 
   "inputmode": "", 
-  "items": "Item 1\nItem 2\n*Item 3 (disabled)\n>Item 4", 
+  "items": "Select animal name:\nPuppy\nKitty\nBird\nHorse", 
   "left": 33, 
   "mAll": "", 
   "mBottom": "", 
