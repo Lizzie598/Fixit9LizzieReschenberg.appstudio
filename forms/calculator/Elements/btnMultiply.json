@@ -29,7 +29,7 @@
   "icon": "", 
   "iconTitle": "", 
   "id": "btnMultiply", 
-  "left": 109, 
+  "left": 106, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 247, 
+  "top": 283, 
   "value": "Multiply", 
   "width": "auto"
 }

@@ -19,7 +19,7 @@
   "hidden": "", 
   "id": "lblAnswer", 
   "labelStyle": "text", 
-  "left": 26, 
+  "left": 25, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -42,7 +42,7 @@
   "right": "auto", 
   "script": "", 
   "style": "", 
-  "top": 302, 
+  "top": 328, 
   "value": "", 
   "width": 273
 }

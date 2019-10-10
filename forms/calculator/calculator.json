@@ -63,6 +63,15 @@
         "Elements", 
         "btnMultiply.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "calculator", 
+        "Elements", 
+        "inptName.json"
+      ]
     }
   ], 
   "class": "", 
