@@ -5,7 +5,7 @@ function addition(n1, n2) {
 
 var answer = 0
 btnAdd.onclick=function(){
-  lblAnswer = addition(inptNumOne.value, inptNumTwo.value)
+  lblAnswer.value = addition(Number(inptNumOne.value), Number(inptNumTwo.value))
 }
 
 function multiply(n1, n2) {
@@ -14,5 +14,5 @@ function multiply(n1, n2) {
 
 var answer = 0
 btnMultiply.onclick=function(){
-  lblAnswer = multiply(inptNumOne.value, inptNumTwo.value)
+  lblAnswer.value = multiply(inptNumOne.value, inptNumTwo.value)
 }
