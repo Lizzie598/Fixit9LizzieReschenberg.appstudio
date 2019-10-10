@@ -36,6 +36,15 @@
         "Elements", 
         "lblChanges.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "lblCorrect.json"
+      ]
     }
   ], 
   "class": "", 
